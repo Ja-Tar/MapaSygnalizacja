@@ -3,8 +3,9 @@ import xml.etree.ElementTree as ET
 
 # Lista linków do plików SVG
 svg_links = [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7d/Niebieskie_g%C3%B3ra_ci%C4%85g%C5%82e.svg",
     "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bia%C5%82e_d%C3%B3%C5%82_ci%C4%85g%C5%82e.svg",
-    "https://upload.wikimedia.org/wikipedia/commons/2/2f/Podstawa_semafor-C2.svg"
+    "https://upload.wikimedia.org/wikipedia/commons/7/78/Podstawa_tm.svg"
 ]
 
 # Pusta lista do przechowywania treści plików SVG
@@ -42,5 +43,7 @@ root.set("height", str(len(svg_links) * 28))  # Ustawienie wysokości na całkow
 # Tworzenie drzewa XML
 tree = ET.ElementTree(root)
 
+namef = input("Podaj nazwę pliku SVG: ")
+
 # Zapisywanie do pliku SVG
-tree.write("combined_svg.svg", encoding="utf-8", xml_declaration=True)
+tree.write(namef + ".svg", encoding="utf-8", xml_declaration=True)
