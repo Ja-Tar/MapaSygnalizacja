@@ -82,7 +82,8 @@ We (wszystkie) -> [Swisstack - Own work](https://commons.wikimedia.org/wiki/Cate
 ## Semafory mechaniczne: 
 Semafor kształtowy -> [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
 Semafor manewrowy -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:Pkp-m1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
-Tarcza ostrzegawcza -> 
+Tarcza ostrzegawcza -> [original PNG version - Orem; SVG version - Pko - own drawing](https://commons.wikimedia.org/wiki/File:PKP-OD1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
+Tarcza ostrzegawcza stała -> [original PNG version - Orem; SVG version - Pko - own drawing](https://commons.wikimedia.org/wiki/File:PKP-ON.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
 Tarcza zaporowa -> 
 
 ## Semafory pozostałe: 
