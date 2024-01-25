@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   height="185"
+   width="195"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docname="W_4_Wskaźnik_zatrzymania.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <svg:defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:cx="200"
+     inkscape:cy="189.57179"
+     inkscape:zoom="0.70710678"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="210px"
+     height="400px"
+     showgrid="false"
+     inkscape:object-points="true"
+     inkscape:object-bbox="true"
+     inkscape:object-nodes="true"
+     objecttolerance="10000"
+     gridtolerance="10000"
+     inkscape:grid-points="true"
+     inkscape:window-width="888"
+     inkscape:window-height="596"
+     inkscape:window-x="134"
+     inkscape:window-y="121"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <svg:metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1"
+     id="layer1"
+     transform="translate(-7.5,-15)">
+    <svg:g
+       id="g1877"
+       transform="translate(-42.5,65)"
+       inkscape:export-filename="..\Dokumenty\MapaSygnalizacja\W_4_Wskaźnik_zatrzymania.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <svg:rect
+         y="70"
+         x="137.5"
+         height="65"
+         width="20"
+         id="rect1875"
+         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.54951;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <svg:g
+         transform="matrix(0.5,0,0,0.5,50,-50)"
+         id="g1871">
+        <svg:rect
+           style="fill:#000000;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect1883"
+           width="390"
+           height="250"
+           x="0"
+           y="0" />
+        <svg:path
+           style="fill:#ffffff;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 160,10 V 90 H 10 v 70 h 150 v 80 h 70 V 160 H 380 V 90 H 230 V 10 Z"
+           id="rect1874" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <script />
+</svg:svg>
