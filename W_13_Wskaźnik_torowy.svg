@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   height="128.68517"
+   width="83.546082"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   version="1.0"
+   sodipodi:docname="W_13_Wskaźnik_torowy.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <svg:defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:cx="72.117519"
+     inkscape:cy="108.66889"
+     inkscape:zoom="1"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="220px"
+     height="235px"
+     showgrid="false"
+     inkscape:object-points="true"
+     inkscape:object-bbox="true"
+     inkscape:object-nodes="true"
+     objecttolerance="10000"
+     inkscape:grid-points="true"
+     gridtolerance="10000"
+     inkscape:window-width="888"
+     inkscape:window-height="752"
+     inkscape:window-x="3"
+     inkscape:window-y="32"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0"
+       originy="0"
+       spacingx="5"
+       spacingy="5"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <svg:metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1"
+     id="layer1"
+     transform="translate(-13.315235,-11.044423)">
+    <svg:g
+       transform="translate(70.025986,82.751503)"
+       id="g2188">
+      <svg:rect
+         style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3.86464;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2182"
+         width="5.3968258"
+         height="123.66558"
+         x="-17.635914"
+         y="-66.6875" />
+      <svg:g
+         id="g2159"
+         transform="matrix(3,0,0,3,-50.9375,-66.6875)">
+        <svg:path
+           id="path2800"
+           d="m 9.75,-1.5 -1.5,1 2.625,3.875 L 2,16.125 0.71875,14.3125 l -1.4375,1.0625 1.625,2.34375 -1.65625,2.375 1.5,1.03125 1.25,-1.84375 3.90625,5.65625 -7.65625,11 1.5,1.03125 L 7,26.5 10.90625,32.125 8.25,35.9375 l 1.5,1 2.25,-3.25 2.25,3.28125 1.5,-1.03125 L 13.09375,32.125 17,26.5 l 7.25,10.46875 1.5,-1.03125 -7.65625,-11.03125 3.875,-5.5625 1.3125,1.78125 1.4375,-1.0625 -1.6875,-2.25 0.0625,-0.09375 L 24.75,15.34375 23.25,14.3125 22,16.125 13.09375,3.3125 15.75,-0.5 14.25,-1.5 12,1.75 11.96875,1.8125 Z m 2.25,6.4375 3.90625,5.625 -3.875,5.59375 L 8.125,10.53125 11.9375,5 Z M 7,12.125 10.90625,17.75 7,23.34375 3.09375,17.71875 3.125,17.6875 Z m 10,0 3.90625,5.59375 -0.0625,0.09375 -3.84375,5.5 -3.875,-5.59375 z m -5,7.1875 3.875,5.59375 L 12,30.5 8.125,24.90625 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <svg:path
+           id="path2852"
+           d="M 14.25,-1.5 12,1.75 v 3.1875 l 3.90625,5.625 -3.875,5.59375 L 12,16.125 v 3.1875 L 15.875,24.90625 12,30.5 v 3.1875 l 2.25,3.28125 1.5,-1.03125 L 13.09375,32.125 17,26.5 l 7.25,10.46875 1.5,-1.03125 -7.65625,-11.03125 3.875,-5.5625 1.3125,1.78125 1.4375,-1.0625 -1.6875,-2.25 0.0625,-0.09375 L 24.75,15.34375 23.25,14.3125 22,16.125 13.09375,3.3125 15.75,-0.5 Z M 17,12.125 20.90625,17.71875 20.84375,17.8125 17,23.3125 13.125,17.71875 Z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </svg:g>
+    </svg:g>
+  </svg:g>
+  <script />
+</svg:svg>
