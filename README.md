@@ -16,7 +16,7 @@ W8 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_8_Wska%C5%B
 W9 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_9_Wska%C5%BAnik_odcinka_ograniczonej_pr%C4%99dko%C5%9Bci.svg) (wikimedia; z modyfikacją wysokości, rozdzielenie na dwa svg)
 W11a (wszystkie) -> KokoiMatsuchi - Own work [I](https://commons.wikimedia.org/wiki/File:W11a_-_I.svg) [II](https://commons.wikimedia.org/wiki/File:W11a_-_II.svg) [III](https://commons.wikimedia.org/wiki/File:W11a_-_III.svg) [IV](https://commons.wikimedia.org/wiki/File:W11a_-_IIII.svg) (wikimedia)
 W11b (wszystkie) -> KokoiMatsuchi - Own work [I](https://commons.wikimedia.org/wiki/File:W11b_-_I.svg) [II](https://commons.wikimedia.org/wiki/File:W11b_-_II.svg) [III](https://commons.wikimedia.org/wiki/File:W11b_-_III.svg) [IV](https://commons.wikimedia.org/wiki/File:W11b_-_IIII.svg) (wikimedia)
-W11p (wszystkie) -> 
+W11p (wszystkie) -> KokoiMatsuchi - Own work [I](https://commons.wikimedia.org/wiki/File:W11p_-_I.svg) [II](https://commons.wikimedia.org/wiki/File:W11p_-_II.svg) (wikimedia)
 
 ## Semafor kształtowy: 
 [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikipedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
