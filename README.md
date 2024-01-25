@@ -10,6 +10,7 @@ W4 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_4_Wska%C5%B
 W5 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_5_Wska%C5%BAnik_przetaczania.svg) (wikipedia; z modyfikacją wysokości)
 W6 -> [Krzysztof Maria Różański, (Upior polnocy) - własna praca](https://commons.wikimedia.org/wiki/File:W_6_Wska%C5%BAnik_ostrzegania.svg) (wikipedia; z modyfikacją wysokości)
 W6a -> [Krzysztof Maria Różański, (Upior polnocy) - własna praca](https://commons.wikimedia.org/wiki/File:W_6a_Wska%C5%BAnik_ostrzegania.svg) (wikipedia; z modyfikacją wysokości)
+W6b -> [Therud - Own work](https://commons.wikimedia.org/wiki/File:W_6b_Wska%C5%BAnik_ostrzegania.svg) (wikimedia; z modyfikacją wysokości)
 
 ## Semafor kształtowy: 
 [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikipedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
