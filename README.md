@@ -102,4 +102,4 @@ Tarcza ostrzegawcza stała -> [original PNG version - Orem; SVG version - Pko - 
 Tarcza zaporowa -> [Swisstack - Own work](https://commons.wikimedia.org/wiki/File:Pkp-Z1.svg) (wikimedia; z modyfikacją wysokości) 
 
 ## Semafory pozostałe: 
-JaTar (autor) - Modyfikacja prac z [domeny publiczej i CC0](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikimedia) 
+JaTar -> modyfikacja prac z [domeny publiczej i CC0](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikimedia) 
