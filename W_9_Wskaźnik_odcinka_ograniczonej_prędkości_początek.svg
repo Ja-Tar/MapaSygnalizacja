@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   height="72.53968"
+   height="60"
    width="40"
    id="svg2848"
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
    version="1.0"
-   sodipodi:docname="W_9_Wskaźnik_odcinka_ograniczonej_prędkości.svg"
+   sodipodi:docname="W_9_Wskaźnik_odcinka_ograniczonej_prędkości_początek.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -67,13 +67,7 @@
      id="layer1"
      transform="translate(-10,4)"><g
        id="g2873"
-       transform="translate(15,-16.5)"><rect
-         y="72.5"
-         x="12"
-         height="12.539682"
-         width="6"
-         id="rect2766"
-         style="fill:#a9a9a9;fill-opacity:1;stroke:none;stroke-width:0.646521" /><g
+       transform="translate(15,-16.5)"><g
          transform="matrix(2,0,0,2,-55,-57.5)"
          id="g2776"><rect
            style="fill:#000000;fill-opacity:1;stroke:none"
