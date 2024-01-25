@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="80"
+   width="60"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="PKP-W27a.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   version="1.0">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:cx="47.404261"
+     inkscape:cy="54.798981"
+     inkscape:zoom="3.78"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-bbox="true"
+     inkscape:object-points="true"
+     inkscape:object-nodes="true"
+     objecttolerance="10000"
+     inkscape:grid-points="true"
+     gridtolerance="10000"
+     inkscape:window-width="1538"
+     inkscape:window-height="877"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     width="60px"
+     height="105px"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="5px"
+       spacingy="5px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1"
+     id="layer1"
+     transform="translate(0,-25)">
+    <g
+       id="g3143"
+       transform="translate(0,-2.3621826)">
+      <rect
+         y="77.362183"
+         x="27.5"
+         height="25"
+         width="5"
+         id="rect2170"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="matrix(0.25,0,0,0.25,5,7.3621826)"
+         inkscape:label="Warstwa 1"
+         id="g2165">
+        <g
+           id="g2159">
+          <rect
+             y="120"
+             x="20"
+             height="160"
+             width="160"
+             id="rect2821"
+             style="fill:#ffffff;stroke:none" />
+          <path
+             id="rect2811"
+             d="m 0,100 0,200 200,0 0,-200 z m 20,20 160,0 0,160 -160,0 z"
+             style="fill:#000000;stroke:none"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccc" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="scale(0.98754146,1.0126157)"
+       style="font-size:39.50165939px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       id="text2989">
+      <path
+         d="m 25.421477,68.510689 -5.419905,0 0,-20.425907 c -1.980235,1.851659 -4.314071,3.2211 -7.001515,4.108327 l 0,-4.91842 c 1.414443,-0.462888 2.951046,-1.340488 4.609813,-2.632801 1.658751,-1.292265 2.796737,-2.799936 3.413961,-4.523017 l 4.397646,0 z"
+         style=""
+         id="path2997" />
+      <path
+         d="m 47.409705,68.510689 -5.419905,0 0,-20.425907 c -1.980235,1.851659 -4.314071,3.2211 -7.001515,4.108327 l 0,-4.91842 c 1.414443,-0.462888 2.951045,-1.340488 4.609813,-2.632801 1.658751,-1.292265 2.796737,-2.799936 3.413961,-4.523017 l 4.397646,0 z"
+         style=""
+         id="path2999" />
+    </g>
+  </g>
+</svg>
