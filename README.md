@@ -22,6 +22,7 @@ W6b -> [Therud - Own work](https://commons.wikimedia.org/wiki/File:W_6b_Wska%C5%
 W7 -> [Krzysztof Maria Różański, (Upior polnocy) - własna praca](https://commons.wikimedia.org/wiki/File:W_7_Wska%C5%BAnik_ostrzegania.svg) (wikimedia; z modyfikacją wysokości)
 
 W8 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_8_Wska%C5%BAnik_ograniczenia_pr%C4%99dko%C5%9Bci.svg) (wikimedia; z modyfikacją wysokości, usunięcie prawego przykładu)
+
 W9 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_9_Wska%C5%BAnik_odcinka_ograniczonej_pr%C4%99dko%C5%9Bci.svg) (wikimedia; z modyfikacją wysokości, rozdzielenie na dwa svg)
 
 W10 -> (pominięto)
