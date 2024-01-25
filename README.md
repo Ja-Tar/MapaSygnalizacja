@@ -4,7 +4,7 @@ Ikonki semaforów i wskaźników do np. mapy
 
 ## Wskaźniki: 
 W1 -> [Durex86 - Praca własna](https://commons.wikimedia.org/wiki/File:W_1_Wska%C5%BAnik_usytuowania.svg) (wikimedia; z modyfikacją, usunięcie dolnej części)
-W2 -> [Therud - Own work](https://commons.wikimedia.org/wiki/File:W_2_Wska%C5%BAnik_kierunku_jazdy.svg) (wikimedia)
+W2 -> (pominięto; wskaźnik na semaforze)
 W3 -> [Therud - Own work](https://commons.wikimedia.org/wiki/File:PKP-W3-Wska%C5%BAnikUniewa%C5%BCnienia.svg) (wikimedia; z modyfikacją, usunięcie skrajnego lewego i środkowego przykładu, zmiana wysokości)
 W4 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_4_Wska%C5%BAnik_zatrzymania.svg) (wikimedia; z modyfikacją wysokości)
 W5 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_5_Wska%C5%BAnik_przetaczania.svg) (wikimedia; z modyfikacją wysokości)
@@ -20,6 +20,9 @@ W11b (wszystkie) -> KokoiMatsuchi - Own work [I](https://commons.wikimedia.org/w
 W11p (wszystkie) -> KokoiMatsuchi - Own work [I](https://commons.wikimedia.org/wiki/File:W11p_-_I.svg) [II](https://commons.wikimedia.org/wiki/File:W11p_-_II.svg) (wikimedia)
 W12 -> (pominięto)
 W13 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_13_Wska%C5%BAnik_torowy.svg) (wikimedia; z modyfikacją wysokości, usunięcie prawego przykładu, pozostawienie tylko symbolu wskaźnika)
+W14 -> (pominięto; brak na OSM)
+W15 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_15_Wska%C5%BAnik_zmiany_lokalizacji.svg) (wikimedia; z modyfikacją, rozdzielenie na dwa svg, pozostawienie tylko symbolu wskaźnika)
+
 
 ## Semafor kształtowy: 
 [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikipedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
