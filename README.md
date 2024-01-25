@@ -9,4 +9,4 @@ W1 -> [Durex86 - Praca własna](https://commons.wikimedia.org/wiki/File:W_1_Wska
 [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (z modyfikacją wysokości, wikipedia) 
 
 ## Semafory pozostałe: 
-JaTar - Modyfikacja prac z [domeny publiczej](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikipedia)
+JaTar (autor) - Modyfikacja prac z [domeny publiczej](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikipedia)
