@@ -22,10 +22,11 @@ W12 -> (pominięto)
 W13 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_13_Wska%C5%BAnik_torowy.svg) (wikimedia; z modyfikacją wysokości, usunięcie prawego przykładu, pozostawienie tylko symbolu wskaźnika)
 W14 -> (pominięto; brak na OSM)
 W15 -> (pominięto; wskaźnik przy semaforze)
-W16 -> [urex86 - Own work](https://commons.wikimedia.org/wiki/File:W_9_Wska%C5%BAnik_odcinka_ograniczonej_pr%C4%99dko%C5%9Bci.svg) (wikimedia; )
+W16 -> [urex86 - Own work](https://commons.wikimedia.org/wiki/File:W_16_Wska%C5%BAnik_przystanku_osobowego.svg) (wikimedia; z modyfikacją wysokości)
+W17 -> [Swisstack - Own work](https://commons.wikimedia.org/wiki/File:W_17_Wska%C5%BAnik_ukresu.svg) (wikimedia)
 
 ## Semafor kształtowy: 
-[Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikipedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
+[Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
 
 ## Semafory pozostałe: 
-JaTar (autor) - Modyfikacja prac z [domeny publiczej](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikipedia)
+JaTar (autor) - Modyfikacja prac z [domeny publiczej](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikimedia)
