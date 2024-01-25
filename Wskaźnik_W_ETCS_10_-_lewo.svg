@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="600mm"
+   viewBox="0 0 600 600"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#004f7c;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect26"
+       width="600"
+       height="600"
+       x="-600"
+       y="-600"
+       transform="scale(-1)" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       d="M 570,202 H 300 V 30 L 30,300 300,570 299.99999,399 H 570 l 0,-30 H 270 V 497.574 L 72.426,300 270,102.426 V 231 h 300"
+       id="path27" />
+    <path
+       style="fill:#f3de38;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 570,369 H 270 V 497.574 L 72.426,300 270,102.42602 V 231 h 300 v 138"
+       id="path28" />
+  </g>
+</svg>
