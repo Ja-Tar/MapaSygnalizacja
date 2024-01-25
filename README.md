@@ -77,10 +77,13 @@ W32 -> [Therud - Own work](https://commons.wikimedia.org/wiki/File:W_32_Wska%C5%
 W ETCS (wszystkie) -> KokoiMatsuchi - Own work [1](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_1.svg) [2](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_2.svg) [3](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_3.svg) [4](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_4.svg) [5](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_5.svg) [6](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_6.svg) [7](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_7.svg) [8](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_8.svg) [9](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_9.svg) [10 (prawo)](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_10_-_prawo.svg) [10 (lewo)](https://commons.wikimedia.org/wiki/File:Wska%C5%BAnik_W_ETCS_10_-_lewo.svg)
 
 ## Wskaźniki na liniach zelektryfikowanych
-We (wszystkie) -> 
+We (wszystkie) -> [Swisstack - Own work](https://commons.wikimedia.org/wiki/Category:Diagrams_of_catenary_signs_in_Poland) (wikimedia)
 
-## Semafor kształtowy: 
-[Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
+## Semafory mechaniczne: 
+Semafor kształtowy -> [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
+Semafor manewrowy -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:Pkp-m1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
+Tarcza ostrzegawcza -> 
+Tarcza zaporowa -> 
 
 ## Semafory pozostałe: 
 JaTar (autor) - Modyfikacja prac z [domeny publiczej](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikimedia)
