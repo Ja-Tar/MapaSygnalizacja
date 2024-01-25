@@ -3,8 +3,8 @@
 
 <svg
    version="1.0"
-   width="58.335056"
-   height="110.18167"
+   width="58.335052"
+   height="101.57794"
    id="svg3231"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="W_6b_Wskaźnik_ostrzegania.svg"
@@ -53,7 +53,7 @@
      id="defs3233" />
   <a
      id="a3256"
-     transform="matrix(1.0256859,0,0,0.73139,-417.01146,-327.76767)">
+     transform="matrix(1.0256859,0,0,0.62519621,-417.01146,-273.11534)">
     <rect
        style="fill:#cfd3db;fill-opacity:1;stroke:#716d6d;stroke-width:1.0986;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="slupek"
@@ -64,7 +64,7 @@
   </a>
   <g
      id="g3004"
-     transform="matrix(1,0,0,1.0000042,-4.0922361e-5,-5.2303413e-5)">
+     transform="matrix(1,0,0,1.0000042,-4.2889171e-5,-5.427018e-5)">
     <path
        d="M 29.375539,0.55602866 57.779105,50.232749 0.55603636,49.992597 Z"
        id="biala_obwodka"
@@ -110,7 +110,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-4.5339994e-5,50.789164)"
+     transform="translate(-4.7306804e-5,50.789162)"
      id="g3004-1">
     <path
        d="M 29.375539,0.55602866 57.779105,50.232749 0.55603636,49.992597 Z"
