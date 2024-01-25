@@ -1,5 +1,11 @@
 Ikonki semaforów i wskaźników do np. mapy
 
+# Przykład:
+
+![PKP_Sp_III](https://rawcdn.githack.com/Ja-Tar/MapaSygnalizacja/0efe434f406a93bd57f3a671906f1817bb6b2e94/PKP_Sp_I.svg)
+![PKP_Sp_III](https://rawcdn.githack.com/Ja-Tar/MapaSygnalizacja/0efe434f406a93bd57f3a671906f1817bb6b2e94/PKP_Sp_II.svg)
+![PKP_Sp_III](https://rawcdn.githack.com/Ja-Tar/MapaSygnalizacja/0efe434f406a93bd57f3a671906f1817bb6b2e94/PKP_Sp_III.svg)
+
 # Atrybucja
 
 ## Wskaźniki: 
