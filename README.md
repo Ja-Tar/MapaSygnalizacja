@@ -21,8 +21,8 @@ W11p (wszystkie) -> KokoiMatsuchi - Own work [I](https://commons.wikimedia.org/w
 W12 -> (pominięto)
 W13 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_13_Wska%C5%BAnik_torowy.svg) (wikimedia; z modyfikacją wysokości, usunięcie prawego przykładu, pozostawienie tylko symbolu wskaźnika)
 W14 -> (pominięto; brak na OSM)
-W15 -> [Durex86 - Own work](https://commons.wikimedia.org/wiki/File:W_15_Wska%C5%BAnik_zmiany_lokalizacji.svg) (wikimedia; z modyfikacją, rozdzielenie na dwa svg, pozostawienie tylko symbolu wskaźnika)
-
+W15 -> (pominięto; wskaźnik przy semaforze)
+W16 -> [urex86 - Own work](https://commons.wikimedia.org/wiki/File:W_9_Wska%C5%BAnik_odcinka_ograniczonej_pr%C4%99dko%C5%9Bci.svg) (wikimedia; )
 
 ## Semafor kształtowy: 
 [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikipedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 
