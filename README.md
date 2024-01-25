@@ -3,6 +3,9 @@ Ikonki semaforów i wskaźników do np. mapy
 # Atrybucja
 
 ## Wskaźniki: 
+
+Tarcza D1 -> [KokoiMatsuchi - Own work](https://commons.wikimedia.org/wiki/File:Sygna%C5%82_D1.svg) (wikimedia)
+
 W1 -> [Durex86 - Praca własna](https://commons.wikimedia.org/wiki/File:W_1_Wska%C5%BAnik_usytuowania.svg) (wikimedia; z modyfikacją, usunięcie dolnej części) 
 
 W2 -> (pominięto; wskaźnik na semaforze)
