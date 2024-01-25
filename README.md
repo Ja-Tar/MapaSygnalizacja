@@ -1,5 +1,12 @@
 Ikonki semaforów do np. mapy
 
-Wzkaźniki: W1 -> Durex86 - Praca własna (wikipedia)
-Semafor kształtowy: Orem - own work (z modyfikacją wysokości, wikipedia)
-Semafory pozostałe: JaTar - 
+# Atrybucja
+
+## Wzkaźniki: 
+W1 -> [Durex86 - Praca własna](https://commons.wikimedia.org/wiki/File:W_1_Wska%C5%BAnik_usytuowania.svg) (wikipedia)
+
+## Semafor kształtowy: 
+[Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (z modyfikacją wysokości, wikipedia) 
+
+## Semafory pozostałe: 
+JaTar - Modyfikacja prac z [domeny publiczej](https://commons.wikimedia.org/wiki/Category:Sygnalizatory_SVG) (wikipedia)
