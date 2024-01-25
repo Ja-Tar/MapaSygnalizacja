@@ -33,6 +33,7 @@ W24 -> (pominięto; wskaźnik na semaforze)
 W25 -> (pominięto)
 W26 -> (pominięto; wskaźnik na semaforze)
 W27a -> [Therud - Own work](https://commons.wikimedia.org/wiki/File:W_27_Wska%C5%BAnik_zmiany_pr%C4%99dko%C5%9Bci.svg) (wikimedia)
+W28 -> [Krzysztof Maria Różański, (Upior polnocy) - własna praca](https://commons.wikimedia.org/wiki/File:W_28_Wska%C5%BAnik_kana%C5%82u_radiowego.svg) (wikimedia)
 
 ## Semafor kształtowy: 
 [Orem - own work](https://commons.wikimedia.org/wiki/File:PKP_Sr1.svg) (wikimedia; z modyfikacją wysokości, usunięcie przykładu nocnego) 

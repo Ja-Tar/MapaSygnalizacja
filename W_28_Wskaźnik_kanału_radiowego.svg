@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="53.287605"
+   height="68.7313"
+   id="svg3190"
+   sodipodi:docname="W_28_Wskaźnik_kanału_radiowego.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
+  <defs
+     id="defs3192" />
+  <g
+     transform="translate(-299.07049,-272.20233)"
+     id="layer1"
+     inkscape:export-filename="W_28_Wskaźnik_kanału_radiowego.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       width="6.6266561"
+       height="15.982071"
+       x="322.40628"
+       y="324.72412"
+       id="slupek"
+       style="fill:#dfe1e2;fill-opacity:1;stroke:#b0adb5;stroke-width:0.454866;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="m 697.18568,184.29555 a 25.1775,25.1775 0 1 1 -50.355,0 25.1775,25.1775 0 1 1 50.355,0 z"
+       transform="matrix(1.0478342,0,0,1.0478342,-378.43886,105.73494)"
+       id="wskaznik-tlo"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="matrix(1.0745337,0,0,1.0745337,-400.54985,100.97495)"
+       id="wskaznik-numer_kanalu"
+       style="fill:#ffff00">
+      <path
+         d="m 659.88706,194.07388 v -20.80267 h 8.84042 c 2.2231,2e-5 3.83604,0.18923 4.83882,0.56761 1.01221,0.36896 1.82105,1.03116 2.42651,1.98661 0.60542,0.95548 0.90814,2.04812 0.90816,3.27791 -2e-5,1.56092 -0.45883,2.85222 -1.37643,3.87389 -0.91765,1.01224 -2.28935,1.65079 -4.11513,1.91567 0.90815,0.52977 1.65549,1.11156 2.24203,1.74538 0.59597,0.63383 1.39534,1.75957 2.39813,3.37724 l 2.54002,4.05836 h -5.02329 l -3.03668,-4.52664 c -1.07845,-1.61766 -1.81634,-2.63461 -2.21365,-3.05086 -0.39733,-0.4257 -0.8183,-0.71423 -1.26292,-0.8656 -0.44463,-0.16081 -1.1494,-0.24122 -2.11432,-0.24123 h -0.85141 v 8.68433 h -4.20026 m 4.20026,-12.00481 h 3.10763 c 2.01498,1e-5 3.27317,-0.0851 3.77457,-0.25542 0.50137,-0.17027 0.89396,-0.46353 1.17777,-0.87979 0.28379,-0.41623 0.42569,-0.93653 0.42571,-1.56091 -2e-5,-0.70003 -0.18922,-1.2629 -0.56761,-1.68862 -0.36895,-0.43514 -0.89399,-0.70949 -1.5751,-0.82302 -0.34057,-0.0473 -1.36226,-0.0709 -3.06506,-0.071 h -3.27791 v 5.27871"
+         id="path3179"
+         style="font-style:normal;font-weight:normal;font-size:58.1226px;font-family:'Bitstream Vera Sans';fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 680.05117,188.72422 3.97323,-0.41151 c 0.11351,0.89871 0.44934,1.61294 1.00749,2.1427 0.55814,0.52031 1.20142,0.78046 1.92986,0.78046 0.83247,0 1.53725,-0.33583 2.11432,-1.0075 0.57705,-0.68112 0.86558,-1.70281 0.86559,-3.06506 -10e-6,-1.2771 -0.28854,-2.23256 -0.86559,-2.8664 -0.56761,-0.64327 -1.31023,-0.96491 -2.22785,-0.96492 -1.14467,1e-5 -2.17108,0.50612 -3.07924,1.51834 l -3.23534,-0.46828 2.04337,-10.82703 h 10.54323 v 3.73199 h -7.52074 l -0.62437,3.53333 c 0.88924,-0.44461 1.79741,-0.66692 2.7245,-0.66693 1.76902,1e-5 3.26844,0.64329 4.49826,1.92985 1.22979,1.28658 1.84469,2.95628 1.84471,5.0091 -2e-5,1.71228 -0.49667,3.24007 -1.48996,4.5834 -1.3528,1.83525 -3.23062,2.75287 -5.63347,2.75288 -1.92039,-1e-5 -3.48603,-0.51558 -4.69691,-1.54672 -1.21089,-1.03115 -1.93459,-2.41705 -2.17109,-4.1577"
+         id="text3170"
+         style="font-style:normal;font-weight:normal;font-size:58.1226px;font-family:'Bitstream Vera Sans';fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
